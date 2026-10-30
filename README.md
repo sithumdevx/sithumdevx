@@ -1,23 +1,27 @@
 <h1 align="center">Hi 👋, I'm Sithum Thilina</h1>
-<h3 align="center">A passionate frontend and backend developer from Sri Lanka</h3>
+<h3 align="center">A passionate Full-Stack Software Engineer & Undergraduate from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sithumdevx&label=Profile%20views&color=0e75b6&style=flat" alt="sithumdevx" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sithumdevx&label=Profile%20Views&color=0e75b6&style=flat" alt="sithumdevx" />
+</p>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sithumdevx" alt="sithumdevx" /></a> </p> -->
+---
 
-<p align="left"> <a href="https://twitter.com/sithumthilina" target="blank"><img src="https://img.shields.io/twitter/follow/sithumthilina?logo=twitter&style=for-the-badge" alt="sithumthilina" /></a> </p>
+### 🚀 About Me
+* 🌱 I am currently working as a full-time Software Engineer and studying as an undergraduate student at SLIIT[cite: 1].
+* 💻 Passionate about building full-stack web applications, IoT systems, and software solutions using Java, JavaScript, TypeScript, Python, and React.
+* 🚀 All of my public projects and repositories are available on my profile.
+* ✉️ How to reach me: **sithum.thilina.dev.@gmail.com**
 
-- 🔭 I’m currently working on **Lanka E City**
+### 🛠️ Tech Stack & Tools
+* **Languages:** Java, JavaScript, TypeScript, Python, PHP, C#, SQL, HTML/CSS
+* **Frameworks & Libs:** Spring Boot, Next.js, React, Node.js, Express, Tailwind CSS
+* **Databases & Tools:** PostgreSQL, MySQL, Supabase, Docker, Git, VS Code
 
-- 🌱 I’m currently learning **React , flutter**
+### 📌 Popular Repositories
+* Check out my pinned repositories below or explore my portfolio website: [https://sithumdevx.vercel.app/](https://sithumdevx.vercel.app/)[cite: 1]
 
-- 🤝 I’m looking for help with **Pivisuma ERAS**
-
-- 👨‍💻 All of my projects are available at [https://sithumdevx.vercel.app/](https://sithumdevx.vercel.app/)
-
-- 💬 Ask me about **reactnative , java**
-
-- 📫 How to reach me **12sithum12@gmail.com**
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
