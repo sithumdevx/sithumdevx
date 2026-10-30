@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 About Me
-* 🌱 I am currently working as a full-time Software Engineer and studying as an undergraduate student at SLIIT[cite: 1].
+* 🌱 I am currently working as a full-time Software Engineer and studying as an undergraduate student at birmingham university.
 * 💻 Passionate about building full-stack web applications, IoT systems, and software solutions using Java, JavaScript, TypeScript, Python, and React.
 * 🚀 All of my public projects and repositories are available on my profile.
 * ✉️ How to reach me: **sithum.thilina.dev.@gmail.com**
